@@ -26,7 +26,6 @@ public class Logic {
         this.checkWhoWin = checkWhoWin;
         this.showTableGame = showTableGame;
         this.showMessage1 = showMessage1;
-
     }
     public void logicInside() {
         Scanner scan = new Scanner(System.in);
