@@ -7,6 +7,5 @@ public class App {
 
         Logic logic = new Logic(checkWhoWin, showTableGame, showMessage1);
         logic.logicInside();
-
     }
 }
